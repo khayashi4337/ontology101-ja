@@ -1,6 +1,6 @@
 # この訳について
 
-[目次へ戻る](README.md) ／ [原文（英語）](https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html)
+[目次へ戻る](../README.md) ／ [原文（英語）](https://protege.stanford.edu/publications/ontology_development/ontology101-noy-mcguinness.html)
 
 - 原文には Web ページ版と PDF 版（<https://protegewiki.stanford.edu/images/6/61/First_ontology_guide.pdf>）があり、細部の文面が少し異なります。訳文は PDF 版の文面に従い、見出しの構成は Web ページ版に従いました。PDF 版のほうが明らかに誤っている箇所は、訳注を付けて Web ページ版に従いました。
 - 専門用語は、初めて出る箇所で「クラス（class）」のように英語を添えています。訳語は[用語集](glossary.md)にまとめました。

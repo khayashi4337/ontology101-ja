@@ -1,6 +1,6 @@
 # 権利・免責
 
-[目次へ戻る](README.md)
+[目次へ戻る](../README.md)
 
 - 原文の著作権は、著者（Natalya F. Noy 氏、Deborah L. McGuinness 氏）にあります。
 - この日本語訳は、著者お二人の許可を得て、翻訳し公開しています。
