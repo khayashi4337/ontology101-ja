@@ -1,3 +1,4 @@
-.agent-board/
-ref/
-fix/
+/*
+!/public/
+!/README.md
+!/.gitignore
